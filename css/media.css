@@ -1,0 +1,181 @@
+@media screen and (min-width:400px) and (max-width:600px) {
+    header .container {
+        position: relative;
+        justify-content: space-between;
+    }
+    header .container .toggle {
+        display: block;
+    }
+    header .container .toggle i {
+        font-size: 20px;
+    }
+    header .container .links {
+        display: none;
+    }
+    header .container .links ul {
+        display: block;
+        border-radius: 10px;
+        background: #262936;
+        text-align: center;
+        top: 190%;
+        position: absolute;
+        right: 0;
+        left: 0;
+        z-index: 1;
+    }
+    header .container .links ul li {
+        padding: 10px 0;
+        width: 100%;
+    }
+    header .container .links ul li:not(:last-child){
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    header .container .links ul li .activ {
+        color: #009ad8;
+    }
+    header .container .links ul li a {
+        color: #fff;
+        border: none;
+        transition: all 0.3s;
+    }
+    header .container .links ul li:hover a {
+        color: #009ad8;
+    }
+    .site-body .table .container {
+        display: block;
+    }
+    .site-body .table .container > div {
+        width: 100%;
+    }
+    .site-footer .container {
+        display: block;
+        text-align: center;
+    }
+    .site-footer .container .form {
+        width: 100%;
+    }
+    .site-footer .form button {
+        bottom: 70px;
+    }
+}
+
+@media screen and (min-width:601) and (max-width:768px) {
+    header .container {
+        position: relative;
+        justify-content: space-between;
+    }
+    header .container .toggle {
+        display: block;
+    }
+    header .container .toggle i {
+        font-size: 20px;
+    }
+    header .container .links {
+        display: none;
+    }
+    header .container .links ul {
+        display: block;
+        border-radius: 10px;
+        background: #262936;
+        text-align: center;
+        top: 190%;
+        position: absolute;
+        right: 0;
+        left: 0;
+        z-index: 1;
+    }
+    header .container .links ul li {
+        padding: 10px 0;
+        width: 100%;
+    }
+    header .container .links ul li:not(:last-child){
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    header .container .links ul li .activ {
+        color: #009ad8;
+    }
+    header .container .links ul li a {
+        color: #fff;
+        border: none;
+        transition: all 0.3s;
+    }
+    header .container .links ul li:hover a {
+        color: #009ad8;
+    }
+    .site-body .table .container {
+        display: block;
+    }
+    .site-body .table .container > div {
+        width: 100%;
+    }
+    .site-footer .container {
+        display: block;
+        text-align: center;
+    }
+    .site-footer .container .form {
+        width: 100%;
+    }
+    .site-footer .form button {
+        bottom: 70px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    header .container {
+        position: relative;
+        justify-content: space-between;
+    }
+    header .container .toggle {
+        display: block;
+    }
+    header .container .toggle i {
+        font-size: 20px;
+    }
+    header .container .links {
+        display: none;
+    }
+    header .container .links ul {
+        display: block;
+        border-radius: 10px;
+        background: #262936;
+        text-align: center;
+        top: 190%;
+        position: absolute;
+        right: 0;
+        left: 0;
+        z-index: 1;
+    }
+    header .container .links ul li {
+        padding: 10px 0;
+        width: 100%;
+    }
+    header .container .links ul li:not(:last-child){
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    header .container .links ul li .activ {
+        color: #009ad8;
+    }
+    header .container .links ul li a {
+        color: #fff;
+        border: none;
+        transition: all 0.3s;
+    }
+    header .container .links ul li:hover a {
+        color: #009ad8;
+    }
+    .site-body .table .container {
+        display: block;
+    }
+    .site-body .table .container > div {
+        width: 100%;
+    }
+    .site-footer .container {
+        display: block;
+        text-align: center;
+    }
+    .site-footer .container .form {
+        width: 100%;
+    }
+    .site-footer .form button {
+        bottom: 50px;
+    }
+}

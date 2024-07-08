@@ -59,7 +59,7 @@ function displayWeather() {
     </span>
     <span>
         <img src="images/icon-compass@2x.png" alt="">
-        18km/hr
+        ${forecast[0].day.maxwind_mph}
     </span>
     <span>
         <img src="images/icon-wind@2x.png" alt="">
